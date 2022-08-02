@@ -1,0 +1,7 @@
+## Interface: 90207
+## Title: GarrisonShuffle
+## Version: 9.2.7
+## Notes: Adds a Shuffle Button to the Jukebox
+## Author: Andols
+## SavedVariablesPerCharacter: Gshuffle_sort
+GarrisonShuffle.lua
