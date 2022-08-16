@@ -1,4 +1,3 @@
------Version 9.0.2  Game verison 9.0.2
 local Shown, Nametable
 
 ------------Random Button
