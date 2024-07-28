@@ -4,4 +4,5 @@
 ## Notes: Adds a Shuffle Button to the Jukebox
 ## Author: Andols
 ## SavedVariablesPerCharacter: Gshuffle_sort
+## X-Curse-Project-ID: 91222
 GarrisonShuffle.lua
