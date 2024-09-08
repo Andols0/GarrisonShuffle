@@ -1,6 +1,6 @@
-## Interface: 110000
+## Interface: 110002
 ## Title: GarrisonShuffle
-## Version: 11.0.0
+## Version: 11.0.2
 ## Notes: Adds a Shuffle Button to the Jukebox
 ## Author: Andols
 ## SavedVariablesPerCharacter: Gshuffle_sort
