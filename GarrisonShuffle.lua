@@ -46,7 +46,8 @@ local function sorter(a,b)
  end
 
 function SortList()
-	if UnitName("npc")=="Tune-O-Tron 5000" or UnitName("npc")=="B.O.O.M. Box" then
+	local name = UnitName("npc")
+	if not(issecretvalue(name)) and ( name == "Tune-O-Tron 5000" or name == "B.O.O.M. Box" ) then
 		RandomButton:Show()
 		SortOption:Show()
 		GossipFrameSortButton:SetChecked(Gshuffle_sort)
