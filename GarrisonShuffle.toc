@@ -1,4 +1,7 @@
+## Interface: @toc-version-retail@
+#@debug@
 ## Interface: 120100
+#@end-debug@
 ## Title: GarrisonShuffle
 ## Version: 12.1.0
 ## Notes: Adds a Shuffle Button to the Jukebox
